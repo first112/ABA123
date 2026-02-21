@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/first112/ABA/refs/heads/main/ABA.txt?token=GHSAT0AAAAAADWADOVONUWWGKS5W2K7T6GM2MZKRVA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/first112/ABA/refs/heads/main/ABA.txt"))()
